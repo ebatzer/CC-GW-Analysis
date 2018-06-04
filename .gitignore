@@ -1,0 +1,7 @@
+*.csv
+*.sql
+*.sqlite
+*.db
+reddit_cache.sqlite
+
+*.sqlite
