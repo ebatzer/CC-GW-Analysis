@@ -1,4 +1,4 @@
-## STA-141B Final Project
+## STA 141B Final Project
 
 This project was created as a final project for [STA 141B: Data & Web Technologies for Data Analysis, taught Winter 2018](https://jsharpna.github.io/141B/index.html).
 
